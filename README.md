@@ -16,9 +16,14 @@
 	- Bootstrap
 	- Flutter
 
-## 🌱 I’m currently learning ...
+## I’m currently learning ...
 - Flutter (trying to improve my skills)
 - MongoDB and Nodejs
+
+## Some of my repositories 
+- [CovidBR](https://github.com/jonh14lk/CovidBR).
+- [Competitive_Programming](https://github.com/jonh14lk/Competitive_Programming).
+- [https://github.com/jonh14lk/Github_Search](https://github.com/jonh14lk/Github_Search).
 
 <br/>
 <br/>
@@ -28,7 +33,7 @@
 </p>  
 
 <div align="center">
-  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+  <h3 align="center">Connect with me<img align="center" src="https://raw.githubusercontent.com/jonh14lk/jonh14lk/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
 
 <p align="center">
@@ -42,4 +47,4 @@
 <br/>
 <br/>
 
-<h3> Template made by <a href="https://github.com/rajput2107"><b>rajput2107</b></a>. </h3>
+<h4> Template made by <a href="https://github.com/rajput2107"><b>rajput2107</b></a>. </h4>
