@@ -21,9 +21,9 @@
 - MongoDB and Nodejs
 
 ## Some of my repositories 
-- [CovidBR](https://github.com/jonh14lk/CovidBR).
-- [Competitive_Programming](https://github.com/jonh14lk/Competitive_Programming).
-- [https://github.com/jonh14lk/Github_Search](https://github.com/jonh14lk/Github_Search).
+- [CovidBR](https://github.com/jonh14lk/CovidBR)
+- [Competitive_Programming](https://github.com/jonh14lk/Competitive_Programming)
+- [Github_Search](https://github.com/jonh14lk/Github_Search)
 
 <br/>
 <br/>
@@ -47,4 +47,4 @@
 <br/>
 <br/>
 
-<h4> Template made by <a href="https://github.com/rajput2107"><b>rajput2107</b></a>. </h4>
+<h4> Template forked from <a href="https://github.com/rajput2107/rajput2107"><b>rajput2107</b></a>. </h4>
