@@ -1,6 +1,6 @@
 ### <img src="https://raw.githubusercontent.com/jonh14lk/jonh14lk/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://raw.githubusercontent.com/jonh14lk/jonh14lk/master/Assets/Earth.gif" width="24px">
 
-<em>I am a computer science student from <a href="https://ufal.br/"><b>Universidade Federal de Alagoas</b></a> and I am currently in the 3rd period. I like to study and learn new things about technology and development. </em> 
+<em>I am a computer science student from <a href="https://ufal.br/"><b>Universidade Federal de Alagoas</b></a> and I am currently in the 3rd period. I like to study and learn new things that can create an impact in the world. </em> 
 
 <br/>
 
@@ -47,5 +47,3 @@
 
 <br/>
 <br/>
-
-<h4> Template forked from <a href="https://github.com/rajput2107/rajput2107"><b>rajput2107</b></a>. </h4>
