@@ -1,5 +1,6 @@
 <div align="center">
-<img  href="https://www.flaticon.com/authors/eucalyp" title="Icon made by Eucalyp" src="https://image.flaticon.com/icons/png/512/2463/2463478.png" width="150px">
+<a href="https://www.flaticon.com/authors/eucalyp">
+<img title="Icon made by Eucalyp" src="https://image.flaticon.com/icons/png/512/2463/2463478.png" width="150px">
 </div>
 
 ### :earth_americas: Hello World!
@@ -9,20 +10,18 @@
 <br/>
 
 <p align="center">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=joaoayalla19@gmail.com" /></a>
+  <a href="mailto:joaoayalla19@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
 
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-victor-ayalla-13249218b/" /></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-ayalla-13249218b/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
 </p>
-
-<br/>
 
 ## Statistics :chart_with_upwards_trend:
 
 <br/>
 
-[![](https://activity-graph.herokuapp.com/graph?username=jonh14lk&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![](https://activity-graph.herokuapp.com/graph?username=jonh14lk&theme=redical)]()
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonh14lk&show_icons=true&theme=radical">
@@ -30,8 +29,6 @@
 <br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonh14lk&layout=compact&theme=radical">
 </p>
-
-<br/>
 
 ## Some of my repositories :man_technologist:
 
