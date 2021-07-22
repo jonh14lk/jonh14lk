@@ -1,6 +1,7 @@
 <div align="center">
-<a href="https://www.flaticon.com/authors/eucalyp"> </a>
+<a href="https://www.flaticon.com/authors/eucalyp">
 <img title="Icon made by Eucalyp" src="https://image.flaticon.com/icons/png/512/2463/2463478.png" width="150px">
+</a>
 </div>
 
 ### :earth_americas: Hello World!
