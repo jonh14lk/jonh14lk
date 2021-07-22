@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://www.flaticon.com/authors/eucalyp">
+<a href="https://www.flaticon.com/authors/eucalyp"> </a>
 <img title="Icon made by Eucalyp" src="https://image.flaticon.com/icons/png/512/2463/2463478.png" width="150px">
 </div>
 
