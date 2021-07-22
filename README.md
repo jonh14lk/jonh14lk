@@ -12,10 +12,10 @@
 
 <p align="center">
   <a href="mailto:joaoayalla19@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" width="80px"></a>
 
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-ayalla-13249218b/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" width="90px"></a>
 </p>
 
 ## Statistics :chart_with_upwards_trend:
