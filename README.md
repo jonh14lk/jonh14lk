@@ -48,4 +48,6 @@
 
 </div>
 
+## Contributions :white_check_mark:
+
 ![Snake animation](https://github.com/jonh14lk/jonh14lk/blob/output/snake.svg)
