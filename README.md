@@ -29,7 +29,7 @@
 <br/>
 </p>
 
-## Some of my repositories :man_technologist:
+## Repositories :man_technologist:
 
 <br/>
 
