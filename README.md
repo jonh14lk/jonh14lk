@@ -27,8 +27,6 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonh14lk&show_icons=true&theme=radical">
 <br/>
-<br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonh14lk&layout=compact&theme=radical">
 </p>
 
 ## Some of my repositories :man_technologist:
@@ -49,3 +47,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonh14lk&repo=p5jsSketches&theme=radical&border_radius=10)](https://github.com/jonh14lk/p5jsSketches)
 
 </div>
+
+![Snake animation](https://github.com/jonh14lk/jonh14lk/blob/output/snake.svg)
