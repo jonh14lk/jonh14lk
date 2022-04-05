@@ -1,12 +1,6 @@
-<div align="center">
-<a href="https://www.flaticon.com/authors/eucalyp">
-<img title="Icon made by Eucalyp" src="https://image.flaticon.com/icons/png/512/2463/2463478.png" width="150px">
-</a>
-</div>
-
 ### :earth_americas: Hello World!
 
-<em>I am a computer science student from <a href="https://ufal.br/"><b>Universidade Federal de Alagoas</b></a> and I am currently in the 5rd term. I like to study and learn new things that can create an impact in the world especially, passionated and motivated to solve problems. </em>
+<em>I am a computer science student from <a href="https://ufal.br/"><b>Universidade Federal de Alagoas</b></a> and I am currently in the 6rd term. I like to study and learn new things that can create an impact in the world especially, passionated and motivated to solve problems. </em>
 
 <br/>
 
