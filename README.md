@@ -23,25 +23,6 @@
 <br/>
 </p>
 
-## Repositories :man_technologist:
-
-<br/>
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonh14lk&repo=Competitive_Programming&theme=radical&border_radius=10)](https://github.com/jonh14lk/Competitive_Programming)
-<br/>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonh14lk&repo=CovidBR&theme=radical&border_radius=10)](https://github.com/jonh14lk/CovidBR)
-<br/>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonh14lk&repo=StudiesGroups&theme=radical&border_radius=10)](https://github.com/jonh14lk/StudiesGroups)
-<br/>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonh14lk&repo=p5jsSketches&theme=radical&border_radius=10)](https://github.com/jonh14lk/p5jsSketches)
-
-</div>
-
 ## Contributions :white_check_mark:
 
 ![Snake animation](https://github.com/jonh14lk/jonh14lk/blob/output/snake.svg)
