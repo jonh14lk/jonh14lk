@@ -1,6 +1,6 @@
 ### :earth_americas: Hello World!
 
-<em>I like to drink coffee and learn new things that can create an impact in the world especially, passionated and motivated to solve problems. </em>
+<em>I like to drink coffee and learn new things that can create an impact in the world, especially, passionated and motivated to solve problems. </em>
 
 <br/>
 
